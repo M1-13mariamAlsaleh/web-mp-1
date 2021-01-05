@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&family=Hanalei+Fill&display=swap');
+.title{
+    background-color:#fb6376;
+    height: 110px;
+    display: flex ;
+    justify-content:flex-start;
+    margin:-10px;
+    align-items: flex-start;
+}
+.links{
+    
+    height: 100px;
+    width: 600px;
+    margin-left:350px;
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+a{
+    width: 100px;
+    
+}
+.list{
+    background-color:#fb6376;
+    height:830px;
+    width: 120px;
+    margin:-9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Hanalei Fill', cursive;
+
+    
+
+}
+
+
+.lists{ 
+    color: antiquewhite;
+    
+}
+ul{
+  margin:17px;
+}
+.middel{
+  background-color:#fcb1a6; ;
+   height:800px;
+   width: 2000px;
+   margin-top: 120px;
+   margin-right: 5px;
+   margin-left: -650px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+
+    
+}
+
+.my-fav{
+    display: flex;
+    justify-content:center;
+    align-items: flex-start;
+
+}
+h1{
+    color: #8a817c;
+    font-family: 'Hanalei Fill', cursive;
+    text-align: center; }
+
+
+    
+.card :hover{
+    transform: translate(0px, -20px) rotate(0deg);
+    box-shadow: 10px 10px #fb6376 ;
+    
+}
